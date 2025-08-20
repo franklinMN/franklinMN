@@ -14,10 +14,10 @@
 ## 🌟 Featured Projects
 
 > Currently working on small projects like:
-- **Quote App** – A simple, elegant way to share and discover quotes.
-- **Flames Project** – A fun web app based on the classic FLAMES game.
+- **Quote App** – [💖Check here](https://franklinmn.github.io/quotes-app/)
+- **Flames Project** – [💖Check here](https://franklinmn.github.io/FLAMES/)
 
-*More projects coming soon! Stay tuned.*
+*.....More projects coming soon! Stay tuned.....*
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 💡 Fun Fact
 
-**Create something.**
+**Create something while you are still Alive.**
 
 ---
 
