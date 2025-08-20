@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Franklin 👋
 
-<!--
-**franklinMN/franklinMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer** passionate about building robust web applications and creative digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tech
+
+- **Languages/Frameworks:** JavaScript, MERN Stack (MongoDB, Express, React, Node.js)
+- **Backend Focused:** REST APIs, Database Design, Scalable Architectures
+
+---
+
+## 🌟 Featured Projects
+
+> Currently working on small projects like:
+- **Quote App** – A simple, elegant way to share and discover quotes.
+- **Flames Project** – A fun web app based on the classic FLAMES game.
+
+*More projects coming soon! Stay tuned.*
+
+---
+
+## 🎨 Interests & Hobbies
+
+- Creating websites & software
+- Exploring music
+- Making art
+
+---
+
+## 🌐 Find Me Online
+
+- [GitHub](https://github.com/franklinMN/)
+
+---
+
+## 💡 Fun Fact
+
+**Create something.**
+
+---
+
+Thanks for visiting my profile! 🚀
