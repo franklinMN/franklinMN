@@ -1,3 +1,3 @@
 # Hi, I'm Franklin 👋
 
-![Banner](https://picsum.photos/1600/900?r=5)
+![Banner](https://picsum.photos/1600/900?r=6)
