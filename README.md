@@ -1,6 +1,3 @@
 # Hi, I'm Franklin 👋
 
-
-
-![gif](https://i.ibb.co/1fS3LC5r/githubimg1.gif)
-
+![githubimg1](https://github.com/user-attachments/assets/e8d25511-5d8b-46c1-ad81-3330fa7b7805)
